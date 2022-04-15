@@ -12,6 +12,7 @@ public class Sec03_21_Arrays {
 
 		for (int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i]);
+			System.out.println("Added by git1 repo");
 		}
 		System.out.println("\n");
 
