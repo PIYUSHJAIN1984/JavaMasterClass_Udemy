@@ -22,6 +22,10 @@ public class Sec02_10_Introduction {
 		System.out.println("e");
 		System.out.println("f");
 		
+		//Code added by developBr branch of git1
+				System.out.println("g");
+				System.out.println("h");
+		
 		
 		driver.quit();
 	}
