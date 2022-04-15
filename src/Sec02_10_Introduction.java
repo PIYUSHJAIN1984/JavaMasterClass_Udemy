@@ -10,6 +10,7 @@ public class Sec02_10_Introduction {
 
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/#/index");
+		System.out.println("Testing committing of code from one branch to another ");
 		driver.quit();
 	}
 
