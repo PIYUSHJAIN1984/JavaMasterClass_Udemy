@@ -12,19 +12,13 @@ public class Sec02_10_Introduction {
 		driver.get("https://rahulshettyacademy.com/#/index");
 		System.out.println("Testing committing of code from one branch to another ");
 		
-		//Code added by git1
+		//Code added by first branch
 		System.out.println("a");
 		System.out.println("b");
-		System.out.println("c");
-		System.out.println("d");
 		
-		//Code added by developBr branch
-		System.out.println("e");
-		System.out.println("f");
-		
-		//Code added by developBr branch of git1
-				System.out.println("g");
-				System.out.println("h");
+		//Code added by second branch
+				System.out.println("c");
+				System.out.println("d");
 		
 		
 		driver.quit();
